@@ -1,0 +1,55 @@
+Macierz A: 
+    1			    2			    3			
+    4			    5			    6			
+    7			    8			    9			
+
+Macierz B: 
+  1.1			    2			    3			
+    4			    5			    6			
+    7			    8			    9			
+
+
+Rozklad LU macierzy A: 
+    7			    8			    9			
+0.1429			0.8571			1.714			
+0.5714			  0.5			1e-20			
+
+
+Rozklad LU macierzy B: 
+    7			    8			    9			
+0.1571			0.7429			1.586			
+0.5714			0.5769			-0.05769			
+
+
+Wyznacznik A: 5.999999e-20
+
+Wyznacznik B: -0.300000
+
+Macierz invA: 
+-5e+19			1e+20			-5e+19			
+1e+20			-2e+20			1e+20			
+-5e+19			1e+20			-5e+19			
+
+
+Macierz invB: 
+   10			  -20			   10			
+  -20			   37			  -18			
+   10			-17.33			8.333			
+
+
+Norma A: 9.000000
+Norma invertedA: 2.000000e+20
+Wskaznik UwarunkowaniaA: 1.800000e+21
+Norma B: 9.000000
+Norma invertedB: 3.700002e+01
+Wskaznik Uwarunkowania B: 3.330001e+02
+Iloczyn macierzy A i invA:
+    0			    0			    0			
+3.518e+13			-7.037e+13			    0			
+    0			    0			    0			
+
+Iloczyn macierzy B i invB:
+    1			    0			1.907e-06			
+-3.815e-06			    1			3.815e-06			
+    0			    0			    1			
+

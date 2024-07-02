@@ -1,0 +1,5 @@
+iloczyn macierzy A invA: 
+    0			    0			    0			
+3.518e+13			-7.037e+13			    0			
+    0			    0			    0			
+
